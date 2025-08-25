@@ -1,7 +1,7 @@
 # Job Finder App 👩‍💻👨‍💻
 
 A **responsive Job Finder application** built with **React.js** and **Tailwind CSS** to showcase frontend development skills.  
-This project demonstrates clean UI design, responsive layouts, and modern frontend practices to demonstrates and showcase my skills. 🚀
+This project demonstrates clean UI design, responsive layouts, and modern frontend practices to impress employers and recruiters. 🚀
 
 ---
 
@@ -25,13 +25,27 @@ This project demonstrates clean UI design, responsive layouts, and modern fronte
 
 ---
 
+## 📸 Screenshots (Preview)
+![Step Progress Demo](https://i.imgur.com/bAPwjvX.png)
+
+## 🔗 Live Demo
+
+👉 [Click here to view live](https://job-finder-app-kudostech.vercel.app/)
+
+## 💡 Purpose
+
+This project was built as part of my frontend portfolio to showcase UI/UX, React, and responsive design skills.
+Employers can use this as a quick reference for clean and production-ready frontend work.
+
+---
+
 ## 🚀 Getting Started
 
 Clone the repo and run locally:
 
 ```bash
 # Clone repo
-git clone https://github.com/Kudostech/job-finder-app.git
+git clone https://github.com/kudostech/job-finder-app.git
 
 # Go into project
 cd job-finder-app
@@ -40,8 +54,16 @@ cd job-finder-app
 npm install
 
 # Run app
-npm run dev
-
+npm run dev 
+```
 ---
-## 📸 Screenshots
 
+## 📩 Contact
+
+👤 ABOLAJI QUDUS AYOBAMI
+
+📧 Email: [Abolajiayobami2000.com](mailto:abolajiayobami2000@gmail.com)
+
+🔗 Portfolio: Check it out here 👉 [Live Website](https://kudostech-portfolio.vercel.app/)
+
+🔗 GitHub: [check here](github.com/kudostech)
