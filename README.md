@@ -66,4 +66,3 @@ npm run dev
 
 🔗 Portfolio: Check it out here 👉 [Live Website](https://kudostech-portfolio.vercel.app/)
 
-🔗 GitHub: [check here](github.com/kudostech)
